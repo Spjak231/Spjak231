@@ -80,15 +80,15 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Spjak231&show_icons=true&locale=en&theme=radical" alt="Spjak231's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=spjak231&show_icons=true&locale=en&theme=radical" alt="spjak231's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Spjak231&theme=radical&hide_border=false" alt="Spjak231's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=spjak231&theme=radical&hide_border=false" alt="spjak231's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spjak231&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spjak231&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <!-- Optional Meme Section -->
