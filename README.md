@@ -76,11 +76,20 @@
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spjak231&show_icons=true&locale=en&layout=compact" alt="spjak231" /></p>
+<!-- GitHub Stats Section -->
+<h2>📊 GitHub Stats</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spjak231&show_icons=true&locale=en" alt="spjak231" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Spjak231&show_icons=true&locale=en&theme=radical" alt="Spjak231's GitHub stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spjak231" alt="spjak231" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Spjak231&theme=radical&hide_border=false" alt="Spjak231's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spjak231&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 <!-- Optional Meme Section -->
 <!--
